@@ -43,9 +43,9 @@ function setup() {
 	star.addImage(starImg);
 	star.scale = 0.2;
     
-	block1=createSprite(356,550,50,40);
+	block1=createSprite(356,460,50,40);
 	block1.visible=false;
-	block2=createSprite(430,550,10000,10000);
+	block2=createSprite(430,460,10000,10000);
 	block2.visible=false;
 	
 
